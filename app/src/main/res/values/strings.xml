@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oei 叫什么？</string>
+    <string name="my">My</string>
+    <string name="answer">叫</string>
+    <string name="femaleChineseText">女</string>
+    <string name="maleChineseText">男</string>
+    <string name="iAmChineseText">我是</string>
+</resources>

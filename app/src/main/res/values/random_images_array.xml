@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="oldMan">
+        <item>@drawable/old_man</item>
+        <item>@drawable/old_man2</item>
+    </array>
+
+    <array name="youngMan">
+        <item>@drawable/male_kid</item>
+        <item>@drawable/male_kid2</item>
+        <item>@drawable/male_kid3</item>
+    </array>
+
+    <array name="man">
+        <item>@drawable/man</item>
+        <item>@drawable/man2</item>
+        <item>@drawable/man3</item>
+        <item>@drawable/man4</item>
+    </array>
+
+    <array name="oldLady">
+        <item>@drawable/old_lady</item>
+        <item>@drawable/old_lady2</item>
+    </array>
+
+    <array name="youngLady">
+        <item>@drawable/female_kid</item>
+        <item>@drawable/female_kid2</item>
+        <item>@drawable/female_kid3</item>
+    </array>
+
+    <array name="lady">
+        <item>@drawable/woman</item>
+        <item>@drawable/woman2</item>
+        <item>@drawable/woman3</item>
+        <item>@drawable/woman4</item>
+        <item>@drawable/woman5</item>
+    </array>
+
+</resources>
