@@ -6,14 +6,17 @@ import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.firebase.analytics.FirebaseAnalytics;
 import com.labo.code.ace.oei.vo.Constants;
 
 public class MainActivity extends AppCompatActivity {
 
+    FirebaseAnalytics analytics;
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        analytics = FirebaseAnalytics.getInstance(this);
     }
 
     public void maleSelected(View view) {
